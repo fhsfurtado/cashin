@@ -1,0 +1,10 @@
+.maindiv {
+    margin-top: 1.5%;
+    margin-left: 2.5%;
+    width: 95%;
+    word-wrap: break-word;
+}
+.info-card{
+    width: 20%;
+    float: left;
+}
